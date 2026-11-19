@@ -144,7 +144,7 @@ fun ContactPage(modifier: Modifier = Modifier) {
 
         Text("Samarpreet Dewal", style = MaterialTheme.typography.headlineSmall)
         Text("Computer Science Student")
-        Text("Email: student@gmail.com")
+        Text("Email: student123@gmail.com")
         Text("Phone: (123) 456-7891")
     }
 }
